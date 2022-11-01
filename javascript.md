@@ -1,4 +1,4 @@
-#Javacscript
+#Javascript
 
 -Javascript is a programming language
 -It is not Ruby
